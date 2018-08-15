@@ -188,8 +188,11 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Movies",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,RAI MOVIE HD
+#EXTINF:0, group-title="Movies",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:0, group-title="Movies",Fox Movie Action
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
 #EXTINF:-1, [COLOR orange]And Prive HD[/COLOR]
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
@@ -271,6 +274,9 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #TRUE SPORTS
 #STAR SPORTS FIRST
 
+#EXTINF:0, group-title="Sports",Sports TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+
 #EXTINF:0, group-title="Sports",AD Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 
@@ -291,6 +297,12 @@ http://cshms3.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/32212
 
 #EXTINF:0, group-title="Sports",AD Sports L2
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:0, group-title="Sports",Euro Sports HD
+http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8
+
+#EXTINF:0, group-title="Sports",Euro Sports2 HD
+http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8
 
 #EXTINF:0, group-title="Sports",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
@@ -643,6 +655,9 @@ http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Music",9X0
 http://cshms3.airtel.tv/wh7f454c46tw3808542659_2027187969/PLTV/88888888/224/3221226028/index.m3u8
 
+#EXTINF:0, group-title="Music",7 Music
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/index.m3u8
+
 
 ############################## MARATHI ##############################
 
@@ -781,6 +796,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/index.m3u8
 
 #DHOOM MUSIC
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/index.m3u8
 
 #EXTINF:0, group-title="Bengali",SANGEET BANGLA
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/index.m3u8
