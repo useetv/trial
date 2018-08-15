@@ -3,14 +3,14 @@
 ###################### HINDI ENTERTAINMENT ######################
 
 #STAR PLUS
-#EXTINF:0, group-title="Entertainment",STAR PLUS (HIGH DEFINITION)
+#EXTINF:0, group-title="Entertainment",STAR PLUS HD
 http://216.144.250.174/Star_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, group-title="Entertainment",ZEE TV
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
+http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",ZEE TV HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8
+http://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",SONY
 http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
@@ -22,10 +22,12 @@ http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221
 #LIFE OK (HIGH DEFINITION)
 #COLORS
 #COLORS (HIGH DEFINITION)
-#&TV
 
-#EXTINF:0, group-title="Entertainment",&TV (HIGH DEFINITION)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:0, group-title="Entertainment",&TV
+http://z5ams.akamaized.net/andtvsd/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",&TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",HOME SHOP 18
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/index.m3u8
@@ -948,7 +950,7 @@ http://cdn.asianetmobiletvplus.online/channels/maadhatv_sgkgedahedhojwewiprokval
 http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/index.m3u8
 
 #EXTINF:0, group-title="Tamil",DD Podhigai
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226381/index.m3u8
+http://mk9qa798qwyb-hls-live.wmncdn.net/824/abrstream/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 
 #7S MUSIC
 
@@ -956,8 +958,12 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226381/index.m3u8
 
 ############################## MALAYALAM ##############################
 
-#ASIANET
-#ASIANET (HIGH DEFINITION)
+#EXTINF:0, group-title="Malayalam",ASIANET
+http://anandmedia.cinesoftcdn.com/anandmedia/asianet_576/playlist.m3u8
+
+#EXTINF:0, group-title="Malayalam",ASIANET HD
+http://anandmedia.cinesoftcdn.com/anandmedia/asianethd_576/playlist.m3u8
+
 #SURYA TV
 
 #EXTINF:0, group-title="Malayalam",MAZHAVIL MANORAMA
@@ -974,14 +980,19 @@ http://cdn.asianetmobiletvplus.com/channels/96272aad4b5ada1d8fd587e1b1dd1f9c.smi
 #EXTINF:0, group-title="Malayalam",JAIHIND TV
 http://cdn.asianetmobiletvplus.com/channels/96272aad4b5ada1d8fd587e1b1dd1f9c.smil/playlist.m3u8
 
-#ASIANET MOVIES
+#EXTINF:0, group-title="Malayalam",ASIANET MOVIES
+http://anandmedia.cinesoftcdn.com/anandmedia/asianetmovies_576/playlist.m3u8
+
 #NAPTOL MALAYALAM
-#ASIANET PLUS
+
+#EXTINF:0, group-title="Malayalam",ASIANET PLUS
+http://anandmedia.cinesoftcdn.com/anandmedia/asianetplus_576/playlist.m3u8
 
 #EXTINF:0, group-title="Malayalam",AMRITA
 http://cdn.asianetmobiletvplus.com/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_hls/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_master.m3u8
 
 #SURYA MOVIES
+
 #DD MALAYALAM
 
 #EXTINF:0, group-title="Malayalam",HARVEST TV
@@ -1004,7 +1015,7 @@ http://cdn.asianetmobiletvplus.online/channels/mediaone_xvorbekyizhjmulrpttaphxs
 http://cdn.asianetmobiletvplus.online/channels/manoramanews_khujpzhfjosnncdyhwyhlgmgycndlucl/playlist.m3u8
 
 #EXTINF:0, group-title="Malayalam",ASIANET NEWS
-http://cdn.asianetmobiletvplus.com/channels/asianetnews_bzjnvojoonksagbbydqcsovbvglunxrf_hls/asianetnews_bzjnvojoonksagbbydqcsovbvglunxrf_master.m3u8
+http://anandmedia.cinesoftcdn.com/anandmedia/asianetnews_576/playlist.m3u8
 
 #NEWS18 KERALA
 
@@ -1051,7 +1062,10 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #STAR MAA HD
 
 #EXTINF:0, group-title="Telugu",ZEE TELUGU
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/index.m3u8
+http://z5ams.akamaized.net/zeetelegusd/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Telugu",ZEE TELUGU HD
+http://z5ams.akamaized.net/zeeteleguhd/tracks-v2a1/index.m3u8
 
 #EXTINF:0, group-title="Telugu",GEMINI COMEDY
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226510/index.m3u8
