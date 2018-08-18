@@ -2,9 +2,14 @@
 
 ###################### HINDI ENTERTAINMENT ######################
 
-#STAR PLUS
+#EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
+http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS HD" group-title="Entertainment",STAR PLUS HD
-http://216.144.250.174/Star_Plus_HD/tracks-v1a1/mono.m3u8
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="STAR PLUS UK" group-title="Entertainment",STAR PLUS UK
+http://216.144.250.174/Star_Plus_HD/tracks-1a1/mono.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="ZEE TV" group-title="Entertainment",ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
@@ -21,7 +26,9 @@ http://mhms11.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221
 #LIFE OK
 #LIFE OK (HIGH DEFINITION)
 #COLORS
-#COLORS (HIGH DEFINITION)
+
+#EXTINF:0 channel-id="" tvg-id="COLORS HD" group-title="Entertainment",COLORS HD
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="&TV" group-title="Entertainment",&TV
 http://z5ams.akamaized.net/andtvsd/tracks-v2a1/index.m3u8
@@ -122,9 +129,13 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0 channel-id="" tvg-id="ZEE CINEMA HD" group-title="Movies",ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
 
-#STAR GOLD
+#EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD HD" group-title="Movies",STAR GOLD HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="STAR GOLD UK" group-title="Movies",STAR GOLD UK
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
 
 #MOVIES OK
@@ -275,8 +286,12 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
 #EXTINF:0 channel-id="" tvg-id="DD SPORTS" group-title="Sports",DD SPORTS
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
 
-#STAR SPORTS SELECT 1 (HIGH DEFINITION)
-#STAR SPORTS SELECT 2 (HIGH DEFINITION)
+#STAR SPORTS SELECT 1 HD
+http://103.109.56.21/live/skyfeed1021/index.m3u8 
+
+#STAR SPORTS SELECT 2 HD
+http://103.109.56.21/live/skyfeed1022/index.m3u8 
+
 #TRUE SPORTS
 #STAR SPORTS FIRST
 
@@ -297,6 +312,12 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 
 #EXTINF:0 channel-id="" tvg-id="REAL MADRID TV" group-title="Sports",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="Sky Sports Football" group-title="Sports",Sky Sports Football
+http://163.172.43.30:8081/live/skfoot/playlist.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="Sky Sports Golf" group-title="Sports",Sky Sports Golf
+http://163.172.43.30:8081/live/skgolf/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Sky Sports Cricket" group-title="Sports",Sky Sports Cricket
 http://163.172.43.30:8081/live/skhd/playlist.m3u8
@@ -559,14 +580,15 @@ http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="CARTOON NETWORK" group-title="Kids",CARTOON NETWORK
-http://103.242.13.90:5555/udp/239.4.1.52:10000
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="POGO" group-title="Kids",POGO
 https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
 
 #HUNGAMA
 
-#NICK
+#EXTINF:0 channel-id="" tvg-id="NICKLEDEON" group-title="Kids",NICKLEDEON
+http://65.254.55.10:4000/live/195/195.m3u8
 
 #NICK + HD
 
@@ -586,6 +608,9 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 
 #EXTINF:0 channel-id="" tvg-id="DISNEY JUNIOR" group-title="Kids",DISNEY JUNIOR
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+
+#EXTINF:0 channel-id="" tvg-id="BB Kids" group-title="Kids",BB Kids
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/76.ch
 
 #BABY TV
 
@@ -607,7 +632,8 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226065/index.m3u8
 
 ############################## MUSIC ##############################
 
-#MTV
+#EXTINF:0 channel-id="" tvg-id="MTV" group-title="Music",MTV
+http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
 
 #MTV BEATS
 
@@ -636,7 +662,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4016503803_1353658214/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="SONY MIX" group-title="Music",SONY MIX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="9X JALWA" group-title="Music",9X JALWA
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/index.m3u8
@@ -724,14 +750,17 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0 channel-id="" tvg-id="ZEE PUNJAB HARYANA HIMACHAL" group-title="Punjabi",ZEE PUNJAB HARYANA HIMACHAL
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225923/index.m3u8
 
-#PTC PUNJABI
+#EXTINF:0 channel-id="" tvg-id="PTC PUNJABI" group-title="Punjabi",PTC PUNJABI
+http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 
-#PTC NEWS
+#EXTINF:0 channel-id="" tvg-id="PTC NEWS" group-title="Punjabi",PTC NEWS
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="CHARDIKLA TIME TV" group-title="Punjabi",CHARDIKLA TIME TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226087/index.m3u8
 
-#PTC CHAKDE
+#EXTINF:0 channel-id="" tvg-id="PTC CHAKDE" group-title="Punjabi",PTC CHAKDE
+http://50.7.198.170:8081/PB/PTCCHAKDE/playlist.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="9X TASHAN" group-title="Punjabi",9X TASHAN
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/index.m3u8
@@ -773,7 +802,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0 channel-id="" tvg-id="ZEE BANGLA CINEMA" group-title="Bengali",ZEE BANGLA CINEMA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/index.m3u8
 
-#JALSHA MOVIES
+#EXTINF:0 channel-id="" tvg-id="JALSHA MOVIES" group-title="Bengali",JALSHA MOVIES
+http://103.109.56.21/live/skyfeed1012/index.m3u8
 
 #JALSHA MOVIES HD
 
@@ -889,7 +919,7 @@ http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221
 http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Polimer News" group-title="Tamil",Polimer News
-F
+
 
 #EXTINF:0 channel-id="" tvg-id="Thanthi TV" group-title="Tamil",Thanthi TV
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226219/index.m3u8
