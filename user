@@ -286,10 +286,10 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
 #EXTINF:0 channel-id="" tvg-id="DD SPORTS" group-title="Sports",DD SPORTS
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
 
-#STAR SPORTS SELECT 1 HD
+#EXTINF:0 channel-id="" tvg-id="STAR SPORTS SELECT 1 HD" group-title="Sports",STAR SPORTS SELECT 1 HD
 http://103.109.56.21/live/skyfeed1021/index.m3u8 
 
-#STAR SPORTS SELECT 2 HD
+#EXTINF:0 channel-id="" tvg-id="STAR SPORTS SELECT 2 HD" group-title="Sports",STAR SPORTS SELECT 2 HD
 http://103.109.56.21/live/skyfeed1022/index.m3u8 
 
 #TRUE SPORTS
@@ -826,7 +826,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0 channel-id="" tvg-id="MUSIC FATAFATI" group-title="Bengali",MUSIC FATAFATI
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/index.m3u8
 
-#DHOOM MUSIC
+#EXTINF:0 channel-id="" tvg-id="DHOOM MUSIC" group-title="Bengali",DHOOM MUSIC
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="SANGEET BANGLA" group-title="Bengali",SANGEET BANGLA
