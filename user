@@ -3,13 +3,13 @@
 ###################### HINDI ENTERTAINMENT ######################
 
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
-http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
+http://62.210.78.84:25461/live/hindijj/nkhsdbaj/204.ts
+
+#EXTINF:0 channel-id="" tvg-id="STAR PLUS" group-title="Entertainment",STAR PLUS
+http://216.144.250.174/Star_Plus_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="STAR PLUS HD" group-title="Entertainment",STAR PLUS HD
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
-
-#EXTINF:0 channel-id="" tvg-id="STAR PLUS UK" group-title="Entertainment",STAR PLUS UK
-http://216.144.250.174/Star_Plus_HD/tracks-1a1/mono.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="ZEE TV" group-title="Entertainment",ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
@@ -132,11 +132,11 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
 http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 
+#EXTINF:0 channel-id="" tvg-id="STAR GOLD" group-title="Movies",STAR GOLD
+http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:0 channel-id="" tvg-id="STAR GOLD HD" group-title="Movies",STAR GOLD HD
 http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
-
-#EXTINF:0 channel-id="" tvg-id="STAR GOLD UK" group-title="Movies",STAR GOLD UK
-http://216.144.250.174/Star_Gold_HD/tracks-v1a1/index.m3u8
 
 #MOVIES OK
 #STAR GOLD SELECT (HIGH DEFINITION)
@@ -238,8 +238,11 @@ http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
 
 #STAR SPORTS 1
 #STAR SPORTS 1 (HIGH DEFINITION)
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
 #STAR SPORTS 2
 #STAR SPORTS 2 (HIGH DEFINITION)
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+
 #STAR SPORTS HINDI 1
 #STAR SPORTS HINDI 1 (HIGH DEFINITION)
 #STAR SPORTS SELECT 1
@@ -864,7 +867,7 @@ http://mhms11.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226524/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Star Vijay HD" group-title="Tamil",Star Vijay HD
-http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/mono.m3u8
+http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/index.m3u8
 
 #EXTINF:0 channel-id="" tvg-id="Kalaigngar" group-title="Tamil",Kalaigngar
 http://cdn.asianetmobiletvplus.online/channels/kalaignartv_czdxzllrwvzueajklabzwgwbwkxzsvky/index.m3u8
@@ -955,8 +958,6 @@ http://cdn.asianetmobiletvplus.online/channels/isaiaruvi_gvrkulcfwmgiiayfrlmcore
 
 #EXTINF:0 channel-id="" tvg-id="Sun Life" group-title="Tamil",Sun Life
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226536/index.m3u8
-
-#SUN MUSIC
 
 #EXTINF:0 channel-id="" tvg-id="Sun Music" group-title="Tamil",Sun Music
 http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226518/index.m3u8
